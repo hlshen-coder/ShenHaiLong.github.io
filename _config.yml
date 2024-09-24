@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "沈海龙"
 title_separator          : "-"
-name                     : &name "ShenHaiLong(沈海龙)"
-description              : &description "这个人没有描述"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "ShenHaiLong(沈海龙)"
+description              : "这个人没有描述"
+url                      : "https://academicpages.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "University of Science and Technology of China"
   location         : "China,Anhui HeFei"
-  employer         : ""
+  employer         : "USTC"
   uri              : # URL
   email            : "shenhail@mail.ustc.edu.cn" 
 
