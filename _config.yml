@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "沈海龙"
 title_separator          : "-"
-name                     : &name "沈海龙"
+name                     : &name "ShenHaiLong(沈海龙)"
 description              : &description "这个人没有描述"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
